@@ -30,7 +30,7 @@ Plugin structure inspired by [Mofiqul/dracula.nvim](https://github.com/Mofiqul/d
 
 ```lua
 {
-  "your-username/boo-berry.nvim",
+  "mrpbennet/boo-berry.nvim",
   lazy = false,
   priority = 1000,
   config = function()
@@ -44,7 +44,7 @@ Plugin structure inspired by [Mofiqul/dracula.nvim](https://github.com/Mofiqul/d
 
 ```lua
 return {
-  { "your-username/boo-berry.nvim" },
+  { "mrpbennet/boo-berry.nvim" },
   {
     "LazyVim/LazyVim",
     opts = {
@@ -58,7 +58,7 @@ return {
 
 ```lua
 use {
-  "your-username/boo-berry.nvim",
+  "mrpbennet/boo-berry.nvim",
   config = function()
     vim.cmd([[colorscheme boo-berry]])
   end,

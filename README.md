@@ -2,7 +2,7 @@
 
 A Neovim colorscheme ported from Helix editor's **boo_berry** theme (originally by [bootra](https://github.com/helix-editor/helix/blob/master/runtime/themes/boo_berry.toml)).
 
-![visual](assets/imgs/visual.png)
+![visual](assets/visual.png)
 
 ## Why You'll Love This Theme
 

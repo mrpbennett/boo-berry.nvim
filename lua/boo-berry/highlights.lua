@@ -321,6 +321,8 @@ function M.setup(colors, config)
     NvimTreeGitDirty        = { fg = colors.yellow },
     NvimTreeGitNew          = { fg = colors.green },
     NvimTreeGitDeleted      = { fg = colors.pink },
+    NvimTreeGitIgnored      = { fg = colors.comment },
+    NvimTreeHidden          = { fg = colors.comment },
     NvimTreeSpecialFile     = { fg = colors.yellow },
     NvimTreeIndentMarker    = { fg = colors.nontext },
     NvimTreeImageFile       = { fg = colors.fg },
@@ -341,6 +343,9 @@ function M.setup(colors, config)
     NeoTreeGitDeleted       = { fg = colors.pink },
     NeoTreeGitConflict      = { fg = colors.pink, bold = true },
     NeoTreeGitUntracked     = { fg = colors.comment },
+    NeoTreeGitIgnored       = { fg = colors.comment },
+    NeoTreeHiddenByName     = { fg = colors.comment },
+    NeoTreeDotfile          = { fg = colors.comment },
     NeoTreeIndentMarker     = { fg = colors.nontext },
 
     ---------------------------------------------------------------------------

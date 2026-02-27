@@ -47,7 +47,7 @@ _Warning: May cause excessive "ooh, pretty" moments. Side effects include showin
 
 ```lua
 {
-  "mrpbennet/boo-berry.nvim",
+  "mrpbennett/boo-berry.nvim",
   lazy = false,
   priority = 1000,
   config = function()
@@ -61,7 +61,7 @@ _Warning: May cause excessive "ooh, pretty" moments. Side effects include showin
 
 ```lua
 return {
-  { "mrpbennet/boo-berry.nvim" },
+  { "mrpbennett/boo-berry.nvim" },
   {
     "LazyVim/LazyVim",
     opts = {
@@ -75,7 +75,7 @@ return {
 
 ```lua
 use {
-  "mrpbennet/boo-berry.nvim",
+  "mrpbennett/boo-berry.nvim",
   config = function()
     vim.cmd([[colorscheme boo-berry]])
   end,

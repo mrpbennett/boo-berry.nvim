@@ -1,5 +1,13 @@
-# 🫐 boo-berry.nvim
+<h3 align="center">
+    <img src="assets/imgs/booberry-logo-circle.png" width="100" alt="Logo"/><br/>
+ BooBerry for <a href="https://github.com/ghostty-org">Neovim</a>
+</h3>
 
+<p align="center">
+ <a href="https://github.com/mrpbennett/boo-berry.nvim/stargazers"><img src="https://img.shields.io/github/stars/booberrrytheme/boo-berry.nvim?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+ <a href="https://github.com/mrpbennett/boo-berry.nvim/issues"><img src="https://img.shields.io/github/issues/mrpbennett/boo-berry.nvim?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+ <a href="https://github.com/mrpbennett/boo-berry.nvim/contributors"><img src="https://img.shields.io/github/contributors/mrpbennett/boo-berry.nvim?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+</p>
 A Neovim colorscheme ported from Helix editor's **boo_berry** theme (originally by [bootra](https://github.com/helix-editor/helix/blob/master/runtime/themes/boo_berry.toml)).
 
 ![visual](assets/imgs/visual.png)
@@ -174,6 +182,6 @@ theme = boo-berry
 - Plugin architecture from [Mofiqul/dracula.nvim](https://github.com/Mofiqul/dracula.nvim)
 - Ghostty theme from [https://github.com/dbozbay](dbozbay)
 
-## License
-
-MIT
+<p align="center">
+ <a href="https://github.com/"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+</p>

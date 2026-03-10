@@ -1,3 +1,5 @@
+# NOTE!! This repo is now at [https://github.com/booberrytheme/boo-berry.nvim](https://github.com/booberrytheme/boo-berry.nvim)
+
 <h3 align="center">
     <img src="assets/imgs/booberry-logo-circle.png" width="100" alt="Logo"/><br/>
  BooBerry for <a href="https://github.com/ghostty-org">Neovim</a>
